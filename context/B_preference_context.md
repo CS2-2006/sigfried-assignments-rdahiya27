@@ -72,6 +72,7 @@ Hard filters are the only grounds for exclusion. If a post doesn't hit a rule un
 > points; rewrite to taste.*
 
 - Short summaries (1–2 sentences)
+- Give a highlight of each post
 - Always include the original link
 - Explain why each item was selected, in plain language referencing §1
 - Titles should be informative, not sensational. Describe what the post or article is actually about. Avoid hype words, dramatic framing, and click-bait phrasing. If the source headline leans sensational, write a calmer replacement.
